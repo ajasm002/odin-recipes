@@ -1,7 +1,6 @@
 body,
 html {
-  background-image: linear-gradient(to top, #fad0c4 0%, #ffd1ff 100%);
-  background-repeat: no-repeat;
+  background-color: bisque;
   /**sets the background image to scroll with the rest of the page**/
   background-attachment: fixed;
   height: 100%;
@@ -10,7 +9,6 @@ html {
 }
 
 img {
-  display: inline-block;
   height: 300px;
   width: 300px;
   padding: 20px;
@@ -23,4 +21,11 @@ img:hover {
 
 h1 {
   text-align: center;
+}
+
+.lasagna {
+  height: 300px;
+  width: 300px;
+  padding: 20px;
+  margin: 20px;
 }
