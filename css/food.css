@@ -1,0 +1,23 @@
+img {
+  height: 300px;
+  width: 300px;
+  padding: 20px;
+  margin: 20px;
+}
+* {
+  padding: 20px;
+}
+body {
+  background-color: bisque;
+}
+li {
+  width: 500px;
+  font-size: 1.3em;
+}
+p {
+  font-size: 1.3em;
+}
+
+a:hover {
+  background-color: aliceblue;
+}
